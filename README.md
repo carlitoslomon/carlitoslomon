@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @carlitoslomon
-- 👀 I’m interested in economics and computer science. 
+- 👀 I’m interested in computer science, mathematics, and economics. 
 - 📫 How to reach me calmos2266@gmail.com
-<!---
-carlitoslomon/carlitoslomon is my repository for academic projects, and personal projects.
 
---->
